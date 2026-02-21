@@ -1,4 +1,4 @@
-A simple e-commerce project using laravel 5
+## A simple e-commerce project using Laravel 5
 
 ## UPDATE
 I'm updating the project to take advantage of the new features in the laravel framework. Will commit soon...
